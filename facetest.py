@@ -22,7 +22,7 @@ def getManyPages(pages):
             'pn': i,
             'rn': 12
                   })
-    url = 'https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php'
+    url = 'https://sp0.baidu.com/8aQDcjqpAAV3otqbppnN2DJv/api.php'#图片查询地址
 #    names = []
 #    img_results = []
     x = 0
