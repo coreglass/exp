@@ -1,5 +1,5 @@
-x = int(input("绗竴涓暟瀛楁槸锛�"))
-y = int(input("绗簩涓暟瀛楁槸锛�"))
+x = int(input("请输入第一个数字"))
+y = int(input("请输入第二个数字"))
 z = int(input("绗笁涓暟瀛楁槸锛�"))
 
 if x > y :
