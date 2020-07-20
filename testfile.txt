@@ -10,3 +10,7 @@
 
 
 调试成功
+
+
+
+安装windows git Tsl 安全授权
